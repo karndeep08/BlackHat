@@ -4,4 +4,4 @@
  ▪️ Owner - ☠️ Mr. Black Hat 
  ▪️ Instagram - @its_karndeep_08
 
-       💫 Thanks for Visiting 💫 
+       git clone  
