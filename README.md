@@ -4,4 +4,8 @@
  ▪️ Owner - ☠️ Mr. Black Hat 
  ▪️ Instagram - @its_karndeep_08
 
-       git clone  
+       git clone https://github.com/karndeep08/BlackHat.git
+       ls
+       cd BlackHat.git
+       ls
+       
